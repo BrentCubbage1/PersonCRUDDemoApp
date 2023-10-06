@@ -1,8 +1,8 @@
-package Brent_Cubbage.PersonCRUDApp.Controller;
+package Brent.Cubbage.PersonCRUDApp.Controller;
 
 
-import Brent_Cubbage.PersonCRUDApp.Entity.Person;
-import Brent_Cubbage.PersonCRUDApp.Service.PersonService;
+import Brent.Cubbage.PersonCRUDApp.Entity.Person;
+import Brent.Cubbage.PersonCRUDApp.Service.PersonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,7 +1,7 @@
-package Brent_Cubbage.PersonCRUDApp.Service;
+package Brent.Cubbage.PersonCRUDApp.Service;
 
-import Brent_Cubbage.PersonCRUDApp.Entity.Person;
-import Brent_Cubbage.PersonCRUDApp.Repository.PersonRepository;
+import Brent.Cubbage.PersonCRUDApp.Entity.Person;
+import Brent.Cubbage.PersonCRUDApp.Repository.PersonRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

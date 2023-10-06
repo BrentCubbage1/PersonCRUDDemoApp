@@ -1,6 +1,6 @@
-package Brent_Cubbage.PersonCRUDApp.Repository;
+package Brent.Cubbage.PersonCRUDApp.Repository;
 
-import Brent_Cubbage.PersonCRUDApp.Entity.Person;
+import Brent.Cubbage.PersonCRUDApp.Entity.Person;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

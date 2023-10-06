@@ -1,4 +1,4 @@
-package Brent_Cubbage.PersonCRUDApp.Entity;
+package Brent.Cubbage.PersonCRUDApp.Entity;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

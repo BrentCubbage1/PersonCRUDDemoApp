@@ -1,4 +1,4 @@
-package Brent_Cubbage.PersonCRUDApp;
+package Brent.Cubbage.PersonCRUDApp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package Brent_Cubbage.PersonCRUDApp;
+package Brent.Cubbage.PersonCRUDApp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
