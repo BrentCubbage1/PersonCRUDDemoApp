@@ -1,0 +1,31 @@
+form {
+    text-align: center;
+    margin: 20px;
+}
+
+
+input {
+    margin: 5px;
+    padding: 5px;
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    background-color: #ff0015;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+br {
+    line-height: 10px;
+}
