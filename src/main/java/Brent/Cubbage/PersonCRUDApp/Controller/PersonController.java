@@ -26,7 +26,7 @@ public class PersonController {
     @PostMapping(value = "/create")
     public ResponseEntity<Person> create(@RequestBody Person person){
         personService.create(person);
-        return ResponseEntity.status(HttpStatus.OK).body(person);
+        return ResponseEntity.status(HttpStatus.CREATED).body(person);
     }
 
     @GetMapping(value = "/read")

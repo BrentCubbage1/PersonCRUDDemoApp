@@ -37,7 +37,6 @@ public class PersonService {
     public Person update(Long id, Person person){
         Person updatePerson = readById(id);
         updatePerson.setName(person.getName());
-        updatePerson.setId(person.getId());
         return personRepository.save(updatePerson);
     }
 
